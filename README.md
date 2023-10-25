@@ -9,6 +9,8 @@ This Python script is designed to help you organize files within a directory by 
 1. **Prerequisites**:
    - You must have Python 3 installed on your system.
 
+   - https://kinsta.com/knowledgebase/install-python/
+
 2. **Clone the Repository**:
    Clone this repository to your local machine or download the `organize_files.py` script.
 
