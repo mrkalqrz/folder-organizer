@@ -31,7 +31,7 @@ The script will organize the files within the specified directory based on their
 
 ## Example
 
-Suppose you have a directory called `C:\Documents\python\organize folder` that contains various files. To organize these files, you can run the script as follows:
+Suppose you have a directory called `C:\Documents\python\unorganize_folder` that contains various files. To organize these files, you can run the script as follows:
 
 ```shell
-python organize_files.py C:\Documents\python\organize folder
+python organize_files.py C:\Documents\python\unorganize_folder
